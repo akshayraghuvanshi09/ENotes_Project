@@ -1,0 +1,39 @@
+ .bg-custom{
+	background: #6E85B7;
+	
+} 
+
+.navbar .nav-item .nav-link{
+	font-size: 20px;
+	color: white;
+}
+
+.navbar-custom .nav-item:HOVER .nav-link{
+	background: white;
+	color: black;
+	border-radius: 10px;
+	
+}
+.div-color{
+	background-color: #F8F9D7;
+	height:605px;
+}
+.custom_footer{
+	background: #495C83;
+	height:115px;
+	
+}
+
+.AddNotePadding{
+
+	padding-bottom: 10px;
+	
+}
+.Enotes-save{
+	margin-top:50px;
+}
+.show_page{
+	margin-top:80px;
+	min-height: 80vh;
+}
+
